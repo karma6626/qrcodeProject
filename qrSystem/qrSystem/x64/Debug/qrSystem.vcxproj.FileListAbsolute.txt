@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\x64\Debug\qrSystem.vcxproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\x64\Debug\qrSystem.LoginForm.resources
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\x64\Debug\qrSystem.MainForm.resources
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\x64\Debug\qrSystem.RegisterForm.resources
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\x64\Debug\qrSystem.StudentForm.resources
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\x64\Debug\qrSystem.vcxproj.GenerateResource.cache

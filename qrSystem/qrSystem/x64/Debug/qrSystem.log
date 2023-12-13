@@ -1,0 +1,65 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(45,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(182,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(206,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\LoginForm.h(225,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\CppCLR_WinFormsProject.cpp(15,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+  LoginForm.cpp
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(45,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/LoginForm.cpp')
+  
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(182,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/LoginForm.cpp')
+  
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(206,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/LoginForm.cpp')
+  
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\LoginForm.h(225,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file '/LoginForm.cpp')
+  
+  MainForm.cpp
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(45,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/MainForm.cpp')
+  
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(182,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/MainForm.cpp')
+  
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(206,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/MainForm.cpp')
+  
+  RegisterForm.cpp
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(45,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/RegisterForm.cpp')
+  
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(182,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/RegisterForm.cpp')
+  
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(206,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/RegisterForm.cpp')
+  
+  StudentForm.cpp
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(45,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/StudentForm.cpp')
+  
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(182,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/StudentForm.cpp')
+  
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\dbConnection.h(206,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file '/StudentForm.cpp')
+  
+C:\Users\Admin\Desktop\New folder\qrSystem\qrSystem\LoginForm.h(225,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file '/StudentForm.cpp')
+  
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  qrSystem.vcxproj -> C:\Users\Admin\Desktop\New folder\qrSystem\x64\Debug\qrSystem.exe
